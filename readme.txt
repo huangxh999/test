@@ -6,3 +6,4 @@ add remote repo.
 add branch.
 Creating a new branch is quick and simple.
 test new merge mode.
+test bug mode.
